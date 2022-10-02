@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519317287899",
+    "project_id": "quick-file-25d17",
+    "storage_bucket": "quick-file-25d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519317287899:android:df460709637459b16cedfe",
+        "android_client_info": {
+          "package_name": "com.quick_file.quick_file"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519317287899-fi4t3cjhvvv7crlqs2ttq7vkf8mg2lct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzEUkn0VdH9Cn2xLZiykeELuwmA4ySuQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519317287899-fi4t3cjhvvv7crlqs2ttq7vkf8mg2lct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
