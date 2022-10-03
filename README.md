@@ -1,16 +1,32 @@
-# quick_file
+# Quick File
 
-A new Flutter project.
+The easiest way to file Taxes online, on time.
 
-## Getting Started
+A product by [Online India Tax Filings](https://onlineindiataxfilings.net)
 
-This project is a starting point for a Flutter application.
+**Only available in India**
 
-A few resources to get you started if this is your first Flutter project:
+Download it -> [DOWNLOAD NOW](https://play.google.com/store/apps/details?id=com.gmail.onlineindiataxfilings.makeonlineindiataxfilings&hl=en_IN&gl=US)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Developers
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@molikpagaria](https://github.com/MolikPagaria)
+
+## Feedback
+
+If you have any feedback, please reach out to us at filequick33@gmail.com
+
+## Features
+
+- Light/dark mode toggle
+
+- Only on Android for now
+
+- Google Sign In
+
+- Push Notifications
+
+- Forms
+
+- Data Security
+
